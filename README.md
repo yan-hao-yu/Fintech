@@ -1,4 +1,11 @@
 # Fintech
+## Introduction
+> Name: 楊皓宇  
+> Student ID: 08170122
+> University：Soochow University  
+> Department : Big Data Management  
+> Class: 雲端運算服務  
+> 
 ## HomeWork
 ### 作業一: What do you think of Cloud Computing?
 #### 說明: 在完成第 1 堂雲端服務課程後，將您了解的知識與主觀想法來描述雲端運算與其產業的趨勢發展。
@@ -26,3 +33,6 @@
 #### 說明：在完成第 6 堂雲端服務課程後，透過 Docker 建立Image，並執行該 Container，其內容可以是程序執行、各種伺服器服務等，並上傳至 Docker Hub。或您也可以選擇演示操作您的專案成品。
 > + [ ] [HW6](#)
 ----
+
+## 期末專題
+###
