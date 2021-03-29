@@ -5,7 +5,6 @@
 > University：Soochow University  
 > Department : Big Data Management  
 > Class: 雲端運算服務  
-> 
 ## HomeWork
 ### 作業一: What do you think of Cloud Computing?
 #### 說明: 在完成第 1 堂雲端服務課程後，將您了解的知識與主觀想法來描述雲端運算與其產業的趨勢發展。
