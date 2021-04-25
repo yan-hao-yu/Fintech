@@ -22,7 +22,7 @@
 ----
 ### 作業四: Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda
 #### 說明：在完成第 4 堂雲端服務課程後，運用無伺服器框架串接 Telegram Chatbot，並且成功執行 DEMO文件，達到鸚鵡機器人的效果。
-> + [ ] [HW4](#)
+> + [X] [HW4]()
 ----
 ### 作業五: Create a Database using Amazon RDS or Amazon DynamoDB
 #### 說明：在完成第 5 堂雲端服務課程後，運用資料庫服上傳給定的資料集，並且可透過界面進行 CRUD行為。
