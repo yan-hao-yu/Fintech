@@ -26,7 +26,7 @@
 ----
 ### 作業五: Create a Database using Amazon RDS or Amazon DynamoDB
 #### 說明：在完成第 5 堂雲端服務課程後，運用資料庫服上傳給定的資料集，並且可透過界面進行 CRUD行為。
-> + [ ] [HW5](#)
+> + [X] [HW5](https://github.com/yan-hao-yu/Fintech/tree/main/HW5)
 ----
 ### 作業六: Create a Docker Container or Build your own Project Services
 #### 說明：在完成第 6 堂雲端服務課程後，透過 Docker 建立Image，並執行該 Container，其內容可以是程序執行、各種伺服器服務等，並上傳至 Docker Hub。或您也可以選擇演示操作您的專案成品。
