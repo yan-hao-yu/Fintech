@@ -35,7 +35,7 @@
 
 ## 期末專題-國泰人壽題目一
 ### 主題: 國泰人壽_企業版Cathay Walker Plus推動案
-> entor: 蕭佳慧 imcaroline@cathaylife.com.tw  
+> mentor: 蕭佳慧 imcaroline@cathaylife.com.tw  
 > 指導老師: 彭金隆老師
 #### 三次正式進度追蹤
 > 04/19 (檢討指標: 與業師及跨校同學建立好聯繫模式、並至少討論過三次以上，提出討論的溝通內容及專案管理狀態)  
